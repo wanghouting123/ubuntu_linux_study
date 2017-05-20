@@ -1,5 +1,4 @@
 
-
 #ubunt下安装docker
 
 ###1.安装默认版本
@@ -21,3 +20,6 @@
 #####sudo apt-get install lxc-docker
 ####安装完成之后查看版本:
 #####docker --version
+![](/assets/2.png)
+
+
