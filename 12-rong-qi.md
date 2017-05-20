@@ -19,5 +19,5 @@
 ######&emsp; * 后台型容器：运行在后台，创建启动之后就与终端无关。即便终端关闭了，该后台容器也依然存在，只有调用了docker stop或docker kill命令时才能够使容器变成停止状态。
 #####&emsp; 创建一个交互型容器：
 #####&emsp; sudo docker run -i -t --name=inspect_shell ubuntu /bin/bash
-#####&emsp; -i 打开容器的标准输入（STDIN），-t 为容器建立一个命令行终端。这两个标志为我们和容器提供了交互shell，是创建交互型容器的基本设置。--name标志为容器指定一个名字，这是一个可选项。当没有这个选项时，docker会取一个随机的名字。接下来，我们告诉docker使用哪个镜像去创建容器，这里使用的是ubuntu，可以是（ubuntu,fedora,debin,centos等）。
+#####&emsp; -i 打开容器的标准输入（STDIN），-t 为容器建立一个命令行终端。这两个标志为我们和容器提供了交互shell，是创建交互型容器的基本设置。--name标志为容器指定一个名字，这是一个可选项。当没有这个选项时，docker会取一个随机的名字。接下来，我们告诉docker使用哪个镜像去创建容器，这里使用的是ubuntu，可以是ubuntu,fedora,debin,centos等。
 
