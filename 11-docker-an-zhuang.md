@@ -21,4 +21,5 @@
 ####安装完成之后查看版本:
 #####docker --version
 ![](/assets/2.png)
+#####查看docker信息
 
