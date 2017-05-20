@@ -10,3 +10,4 @@
 #####![](/assets/1.png)
 
 ###2.安装最新版本
+#####sudo apt-get update
