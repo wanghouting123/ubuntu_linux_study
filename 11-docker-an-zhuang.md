@@ -7,4 +7,4 @@
 #####sudo apt-get install docker.io
 ####安装完成之后查看版本:
 #####docker --version
-![](/assets/1.png)
+#####![](/assets/1.png)
