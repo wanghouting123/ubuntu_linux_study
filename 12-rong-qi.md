@@ -5,4 +5,4 @@
 ####1.2：docker create实例
 #####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sudo docker create ubuntu:14.04
 ![](/assets/4.png)![](/assets/5.png)![](/assets/6.png)
-#####创建完容器之后，会返回容器的ID，例如图中的589....,每一个容器ID都是唯一的。
+#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;创建完容器之后，会返回容器的ID，例如图中的589....,每一个容器ID都是唯一的。
