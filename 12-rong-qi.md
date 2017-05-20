@@ -18,4 +18,6 @@
 ######&emsp; * 交互型容器：运行在前台，通常会指定有交互的控制台，可以给容器输入，也可以得到容器的输出。创建该容器的终端被关闭，在容器内部使用exit命令或者调用了docker stop、docker kill命令后，容器会变成停止状态。
 ######&emsp; * 后台型容器：运行在后台，创建启动之后就与终端无关。即便终端关闭了，该后台容器也依然存在，只有调用了docker stop或docker kill命令时才能够使容器变成停止状态。
 #####&emsp; 创建一个交互型容器：
+#####&emsp; sudo docker run -i -t --name=inspect_shell ubuntu /bin/bash
+#####&emsp; -i 打开容器的标准输入（STDIN），-t 为容器建立一个命令行终端。
 
