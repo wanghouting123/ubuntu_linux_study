@@ -11,5 +11,7 @@
 
 ###2.安装最新版本
 #####sudo apt-get update
-#####//让apt支持https
+#####//让apt支持https：
 #####sudo apt-get install apt-transport-https
+#####//将docker库的公钥加入本地apt中：
+#####sudo apt-key adv --keyserver hkp://keysrver.ubuntu.com:80 --recv-keys 36A1D7869245C8950F966E92D8576A8BA88D21E9
