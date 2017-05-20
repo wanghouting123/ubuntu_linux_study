@@ -11,4 +11,4 @@
 
 ###2.安装最新版本
 #####sudo apt-get update
-#####
+#####sudo apt-get install apt-transport-https
