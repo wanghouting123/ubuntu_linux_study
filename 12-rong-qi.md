@@ -14,4 +14,5 @@
 #####&emsp; 使用docker start 启动容器
 
 ####1.3：docker run实例
-#####&emsp; 想要让创建的容器立马进入运行状态，可以使用docker run命令，该命令等同于docker create创建容器之后再使用docker start启动容器
+#####&emsp; 想要让创建的容器立马进入运行状态，可以使用docker run命令，该命令等同于docker create创建容器之后再使用docker start启动容器。使用docker run命令，可以创建两种类型的容器：后台型容器和交互型容器。
+######&emsp; *
