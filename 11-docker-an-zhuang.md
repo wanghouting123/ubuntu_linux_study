@@ -22,4 +22,4 @@
 #####docker --version
 ![](/assets/2.png)
 #####查看docker信息
-#####docker info
+#####sudo docker info
