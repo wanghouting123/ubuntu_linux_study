@@ -21,10 +21,11 @@
 ![](/assets/10.png)
 
 ####&emsp; 1.3 docker ps -l
-#####&emsp; 查看最新创建的容器。
+#####&emsp; 查看最后创建的容器。
 ![](/assets/11.png)
 
 ####&emsp; 1.3 docker ps -n=x
-#####&emsp; 查看最新创建的容器。
+#####&emsp; 查看最后创建的x容器。
+![](/assets/12.png)
 
 
