@@ -4,4 +4,5 @@
 #####&emsp; sudo docker stop daemon_while
 
 #####&emsp; 还可以通过容器ID来停止容器：
+#####&emsp; sudo docker stop 
 
