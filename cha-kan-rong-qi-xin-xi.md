@@ -4,4 +4,4 @@
 ![](/assets/18.png)
 
 #####&emsp; 使用-f或者--format格式化标志，可以查看指定部分的信息。
-#####&emsp; sudo docker inspect --format='{{ .State.Runing }}' deamon_logs
+#####&emsp; sudo docker inspect --format='{{ .State.Running }}' deamon_logs
