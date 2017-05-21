@@ -3,4 +3,7 @@
 #####&emsp; 在容器启动的时候，通常需要指定其需要执行的程序，然而有时候我们需要在容器运行之后中途启动另一个程序。从docker1.3开始，我们可以用docker exec命令在容器中运行新的任务，他可以创建两种任务：后台型任务和交互型任务。后台型任务没有用户交互终端，交互型任务具有和用户交互的输入输出终端。
 
 #####&emsp; 后台型任务的例子：
-#####&emsp; sudo docker exec -d daemon_dave touch /etc/new_config_file
+#####&emsp; sudo docker exec -d ubuntu touch /etc/new_config_file
+
+#####&emsp; 交互型任务的例子：
+#####&emsp; sudo docker exec -it ubuntu touch /etc/new_config_file
