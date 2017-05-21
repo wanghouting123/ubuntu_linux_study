@@ -5,5 +5,6 @@
   * [ 创建容器](12-rong-qi.md)
   * [查看容器](cha-kan-rong-qi.md)
   * [启动容器](qi-dong-rong-qi.md)
+  * [终止容器](zhong-zhi-rong-qi.md)
 * [First Chapter](chapter1.md)
 
