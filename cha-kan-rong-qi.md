@@ -22,4 +22,6 @@
 
 ####&emsp; 1.3 docker ps -l
 #####&emsp; 查看最新创建的容器。
+![](/assets/11.png)
+
 
