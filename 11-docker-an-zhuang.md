@@ -23,4 +23,4 @@
 ![](/assets/2.png)
 #####查看docker信息
 #####sudo docker info
-![](/assets/3.png)![](/assts/3.png)
+![](/assets/3.png)
