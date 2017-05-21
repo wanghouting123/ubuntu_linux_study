@@ -4,3 +4,5 @@
 
 #####&emsp; docker run -i -t ubuntu:14.04 /bin/bash
 ![](/assets/15.png)
+
+#####&emsp; 需要注意的是，当使用attach命令依附容器后，需要多按一次回车才会出现容器的shell交互界面。
