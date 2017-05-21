@@ -8,5 +8,6 @@
   * [终止容器](zhong-zhi-rong-qi.md)
   * [删除容器](shan-chu-rong-qi.md)
   * [依附容器](yi-fu-rong-qi.md)
+  * [查看容器日志](cha-kan-rong-qi-ri-zhi.md)
 * [First Chapter](chapter1.md)
 
