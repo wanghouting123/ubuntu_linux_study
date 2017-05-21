@@ -14,7 +14,10 @@
 #####&emsp; cat ubuntu.tar | sudo docker import - imported:container
 ![](/assets/22.png)
 
-
+#####&emsp; docker import会把打包的容器导入为一个镜像。
+#####&emsp; import表示从标准输入读取容器内容，我们把name.tar的内容传给了标准输入，res和tag分表代表生成的镜像和标记。
+#####&emsp; 除了导入本地文件系统的tar包外，还可以使用一个url来导入网上的容器：
+#####&emsp; sudo docker inport url res:tag
 
 
 
