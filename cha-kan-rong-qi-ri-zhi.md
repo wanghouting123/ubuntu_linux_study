@@ -4,5 +4,10 @@
 
 #####&emsp; 首先，创建一个不断输出一些内容的后台型容器：
 #####&emsp; sudo docker run -d --name deamon_logs ubuntu /bin/bash -c 'for((i=0;1;i++));do echo $i;sleep 1;done;' 
+![](/assets/16.png)
+#####&emsp;  我们可以使用logs来查看其输出：
+#####&emsp;  sudo docker logs -f deamon_logs
+
+
 
 
