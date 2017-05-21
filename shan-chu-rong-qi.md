@@ -5,4 +5,5 @@
  ####&emsp; sudo docker rm deamon_while2 
  ####&emsp; 要注意一点，不可以删除一个运行中的容器，此时必须先用docker stop或docker kill 命令停止它才能删除。
  ![](/assets/13.png)
+ ####&emsp; 当然，也可以使用-f选项强制删除它：
  
