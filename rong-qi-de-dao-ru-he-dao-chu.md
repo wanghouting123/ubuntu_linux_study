@@ -12,6 +12,7 @@
 
 ####&emsp; 容器的导入
 #####&emsp; cat ubuntu.tar | sudo docker import - imported:container
+![](/assets/22.png)
 
 
 
