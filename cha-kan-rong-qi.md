@@ -19,3 +19,7 @@
 ####&emsp; 1.2 docker ps -a 
 #####&emsp; 查看所有的容器。
 ![](/assets/10.png)
+
+####&emsp; 1.3 docker ps -l
+#####&emsp; 查看最新创建的容器。
+
