@@ -1,2 +1,2 @@
 #查看容器
-#####&emsp; 
+#####&emsp; 1.1 docker ps
