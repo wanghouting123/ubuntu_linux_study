@@ -4,5 +4,7 @@
 #####&emsp; sudo docker stop daemon_while
 
 #####&emsp; 还可以通过容器ID来停止容器：
-#####&emsp; sudo docker stop 
 
+#####&emsp; sudo docker stop 1234969414b8
+
+#####&emsp; docker stop命令给容器中的进程发送SIGTERM信号，默认行为是会导致容器退出。当然，容器内程序可以捕捉该信号并自行处理，例如可以选择忽略。如果要强行停止一个容器，则需要使用docker kill命令，它会给容器的进程发送SIGKILL信号，该信号将会使容器必然退出。
