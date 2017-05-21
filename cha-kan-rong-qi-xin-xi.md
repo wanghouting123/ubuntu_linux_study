@@ -10,3 +10,5 @@
 #####&emsp; 查询容器的ip地址：
 #####&emsp; sudo docker inspect -f='\{{ .NetworkSettings.IPAddress }}' daemon_logs
 ![](/assets/19.png)
+
+#####&emsp; 
