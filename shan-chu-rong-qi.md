@@ -8,4 +8,5 @@
  ####&emsp; 当然，也可以使用-f选项强制删除它：
  ![](/assets/14.png)
  
- ####&emsp; 
+ ####&emsp; Docker并没有提供一次性删除所有容器命令，但是可以用下面的命令来实现这个目的：
+ ####&emsp; docker rm \`docker ps -a -q`
