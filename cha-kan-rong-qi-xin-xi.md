@@ -12,4 +12,4 @@
 ![](/assets/19.png)
 
 #####&emsp; 同时还可以查看多个信息，例如查看容器名和运行状态：
-#####&emsp;  sudo docker inspect --format '\{{.Name}} \{{.State.Runing}}' daemon_logs ubuntu
+#####&emsp;  sudo docker inspect --format '\{{.Name}} \{{.State.Running}}' daemon_logs ubuntu
