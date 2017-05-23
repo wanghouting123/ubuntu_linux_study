@@ -10,7 +10,7 @@
 
 <p>&emsp; 需要注意的是，当使用attach命令依附容器后，需要多按一次回车才会出现容器的shell交互界面。</p>
 
-<p>&emsp; 也可以直接使用 sudo docker start -a ubuntu
+<p>&emsp; 也可以直接使用 sudo docker start -a ubuntu</p>
 
 <p>&emsp; 后台型容器是无法依附终端的，因为它本身就不接受用户交互输入。</p>
 
