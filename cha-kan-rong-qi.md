@@ -38,6 +38,7 @@
 
 <p>&emsp; 查看最后创建的x容器。</p>
 
-![](/assets/12.png)
+<img src="./assets/12.png" />
+
 
 
