@@ -8,11 +8,16 @@
 <p>&emsp; 要注意一点，不可以删除一个运行中的容器，此时必须先用docker stop或docker kill 命令停止它才能删除。</p>
 
 
- ![](/assets/13.png)
+ <img src="./assets/13.png" />
+
+
+
 <p>&emsp; 当然，也可以使用-f选项强制删除它：</p>
 
 
- ![](/assets/14.png)
+<img src="./assets/14.png" />
+
+
  
 <p>&emsp; Docker并没有提供一次性删除所有容器命令，但是可以用下面的命令来实现这个目的：</p>
 
