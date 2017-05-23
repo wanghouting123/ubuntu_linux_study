@@ -13,6 +13,6 @@
   * [1.10查看容器信息](1.10查看容器信息.md)
   * [1.11容器内执行命令](rong-qi-nei-zhi-xing-ming-ling.md)
   * [1.12容器的导入和导出](1.12容器的导入导出.md)
-* [docker镜像](dockerjing-xiang.md)
-  * [镜像的概念](dockerjing-xiang/jing-xiang-de-gai-nian.md)
+* [docker镜像](第二章：docker镜像.md)
+  * [2.1镜像的概念](dockerjing-xiang/jing-xiang-de-gai-nian.md)
 
