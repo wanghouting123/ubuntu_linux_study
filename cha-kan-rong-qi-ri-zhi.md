@@ -7,7 +7,7 @@
 <img src = "./assets/16.png" />
 
 <p>&emsp;  我们可以使用logs来查看其输出：</p>
-</p>&emsp;  sudo docker logs -f deamon_logs</p>
+<p>&emsp;  sudo docker logs -f deamon_logs</p>
 </p>&emsp;  默认情况下，logs输出的是从容器启动到调用执行logs命令时的所有输出，之后的日志不再输出，并立即返回主机的控制台。如果要实时差看日志，可以使用-f标志。ctrl+c快捷键退出监视日志。</p>
 </p>&emsp; 使用--tail标记可以精确控制logs输出的日志行数。例如，查看最后5行日志：</p>
 </p>&emsp; sudo docker logs -f --tail=5 daemon_logs</p>
