@@ -28,7 +28,5 @@
 
 <p>&emsp; 除了导入本地文件系统的tar包外，还可以使用一个url来导入网上的容器：</p>
 
-
-
 <p>&emsp; sudo docker inport url res:tag</p>
 
