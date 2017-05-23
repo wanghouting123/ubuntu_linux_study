@@ -2,6 +2,7 @@
 <h1> ubuntu下安装docker </h1>
 
 <h3> 1.安装默认版本</h3>
+
 #####sudo apt-get update
 #####sudo apt-get install docker.io
 ####安装完成之后查看版本:
