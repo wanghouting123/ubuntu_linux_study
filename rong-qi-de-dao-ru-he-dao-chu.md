@@ -22,7 +22,6 @@
 
 <p>&emsp; docker import会把打包的容器导入为一个镜像。</p>
 
-
 <p>&emsp; import表示从标准输入读取容器内容，我们把name.tar的内容传给了标准输入，res和tag分表代表生成的镜像和标记。</p>
 
 
