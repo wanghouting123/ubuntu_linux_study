@@ -10,7 +10,7 @@
   * [1.7依附容器](1.7依附容器.md)
   * [1.8查看容器日志](1.8查看容器日志.md)
   * [1.9查看容器进程](1.9查看容器进程.md)
-  * [查看容器信息](cha-kan-rong-qi-xin-xi.md)
+  * [1.10查看容器信息](cha-kan-rong-qi-xin-xi.md)
   * [容器内执行命令](rong-qi-nei-zhi-xing-ming-ling.md)
   * [容器的导入和导出](rong-qi-de-dao-ru-he-dao-chu.md)
 * [docker镜像](dockerjing-xiang.md)
