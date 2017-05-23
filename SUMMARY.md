@@ -6,7 +6,7 @@
   * [1.3查看容器](1.3查看容器.md)
   * [1.4启动容器](1.4启动容器.md)
   * [1.5终止容器](1.5终止容器.md)
-  * [删除容器](shan-chu-rong-qi.md)
+  * [1.6删除容器](1.6删除容器.md)
   * [依附容器](yi-fu-rong-qi.md)
   * [查看容器日志](cha-kan-rong-qi-ri-zhi.md)
   * [查看容器进程](cha-kan-rong-qi-jin-cheng.md)
