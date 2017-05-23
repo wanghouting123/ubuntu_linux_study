@@ -22,5 +22,5 @@
 <p>&emsp; Docker并没有提供一次性删除所有容器命令，但是可以用下面的命令来实现这个目的：</p>
 
 
-<p>&emsp; docker rm `docker ps -a -q`</p>
+<p>&emsp; sudo  docker rm `docker ps -a -q`</p>
 
