@@ -14,5 +14,5 @@
   * [1.11容器内执行命令](rong-qi-nei-zhi-xing-ming-ling.md)
   * [1.12容器的导入和导出](1.12容器的导入导出.md)
 * [docker镜像](第二章：docker镜像.md)
-  * [2.1镜像的概念](dockerjing-xiang/jing-xiang-de-gai-nian.md)
+  * [2.1镜像的概念](2.1镜像的概念.md)
 
