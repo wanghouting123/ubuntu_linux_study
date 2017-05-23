@@ -35,7 +35,7 @@
 <p>&emsp; cat ubuntu.tar | sudo docker import - imported:container</p>
 
 
-![](/assets/22.png)
+<img src="./assets/22.png" />
 
 
 <p>&emsp; docker import会把打包的容器导入为一个镜像。</p>
