@@ -20,7 +20,6 @@
 
 <img src="./assets/22.png" />
 
-
 <p>&emsp; docker import会把打包的容器导入为一个镜像。</p>
 
 
