@@ -18,7 +18,6 @@
 
 <p>&emsp; cat ubuntu.tar | sudo docker import - imported:container</p>
 
-
 <img src="./assets/22.png" />
 
 
