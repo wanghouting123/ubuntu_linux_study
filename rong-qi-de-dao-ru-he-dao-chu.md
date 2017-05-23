@@ -24,8 +24,6 @@
 
 <p>&emsp; import表示从标准输入读取容器内容，我们把name.tar的内容传给了标准输入，res和tag分表代表生成的镜像和标记。</p>
 
-
-
 <p>&emsp; 除了导入本地文件系统的tar包外，还可以使用一个url来导入网上的容器：</p>
 
 <p>&emsp; sudo docker inport url res:tag</p>
