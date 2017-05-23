@@ -11,8 +11,8 @@
   * [1.8查看容器日志](1.8查看容器日志.md)
   * [1.9查看容器进程](1.9查看容器进程.md)
   * [1.10查看容器信息](1.10查看容器信息.md)
-  * [容器内执行命令](rong-qi-nei-zhi-xing-ming-ling.md)
-  * [容器的导入和导出](rong-qi-de-dao-ru-he-dao-chu.md)
+  * [1.11容器内执行命令](rong-qi-nei-zhi-xing-ming-ling.md)
+  * [1.12容器的导入和导出](1.12容器的导入导出.md)
 * [docker镜像](dockerjing-xiang.md)
   * [镜像的概念](dockerjing-xiang/jing-xiang-de-gai-nian.md)
 
