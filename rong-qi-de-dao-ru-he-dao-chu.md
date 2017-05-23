@@ -18,7 +18,6 @@
 
 <p>&emsp; dicker export 命令会把容器的文件系统以tar包的格式导出到标准输出，我们将其重定向到目标文件name.tar。将容器保存到本地文件也算是其持久化方式的一种。</p>
 
-
 <p>&emsp; 容器的导入</p>
 
 <p>&emsp; cat ubuntu.tar | sudo docker import - imported:container</p>
