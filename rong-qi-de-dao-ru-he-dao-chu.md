@@ -32,7 +32,3 @@
 
 <p>&emsp; sudo docker inport url res:tag</p>
 
-
-
-
-
