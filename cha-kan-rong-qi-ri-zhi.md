@@ -5,6 +5,7 @@
 </p>&emsp; 首先，创建一个不断输出一些内容的后台型容器：</p>
 </p>&emsp; sudo docker run -d --name deamon_logs ubuntu /bin/bash -c 'for((i=0;1;i++));do echo $i;sleep 1;done;' </p>
 <img src = "./assets/16.png" />
+
 </p>&emsp;  我们可以使用logs来查看其输出：</p>
 </p>&emsp;  sudo docker logs -f deamon_logs</p>
 </p>&emsp;  默认情况下，logs输出的是从容器启动到调用执行logs命令时的所有输出，之后的日志不再输出，并立即返回主机的控制台。如果要实时差看日志，可以使用-f标志。ctrl+c快捷键退出监视日志。</p>
