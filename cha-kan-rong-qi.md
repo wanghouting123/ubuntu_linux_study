@@ -31,7 +31,8 @@
 <p>&emsp; 1.3 docker ps -l
 <p>&emsp; 查看最后创建的容器。
 
-![](/assets/11.png)
+<img src="./assets/11.png" />
+
 
 <p>&emsp; 1.3 docker ps -n=x</p>
 
