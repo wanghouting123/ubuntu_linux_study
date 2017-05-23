@@ -1,6 +1,6 @@
 <h1>容器 </h1>
 <h3>1.创建容器 (docker create , docker run)</h3>
-<p>1.1: docker create 与 docker run 区别
+<p>1.1: docker create 与 docker run 区别</p>
 <p>&emsp; 用docker create 创建的容器处于停止状态，docker run 创建容器并启动。
 <p>1.2：docker create实例
 <p>&emsp; sudo docker create ubuntu:14.04 </code>
