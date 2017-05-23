@@ -11,7 +11,8 @@
 <p>&emsp; 创建完容器之后，会返回容器的ID，例如图中的589....,每一个容器ID都是唯一的。</p>
 <p>&emsp; docker ps 查看当前正在运行的容器(此时，没用任何运行的容器)</p>
 
-![](/assets/5.png)
+<img src = "./assets/5.png" />
+
 <p>&emsp; docker ps -a 查看所有的容器，包括未运行的容器</p>
 
 ![](/assets/6.png)
