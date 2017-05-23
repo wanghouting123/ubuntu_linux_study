@@ -15,7 +15,8 @@
 
 <p>&emsp; docker ps -a 查看所有的容器，包括未运行的容器</p>
 
-![](/assets/6.png)
+<img src = "./assets/6.png" />
+
 <p>&emsp; 使用docker start 启动容器</p>
 
 
