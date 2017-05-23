@@ -13,11 +13,13 @@
 <p>&emsp; 查询容器的ip地址：</p>
 
 <p>&emsp; sudo docker inspect -f='{{ .NetworkSettings.IPAddress }}' daemon_logs
-![](/assets/19.png)</p>
+<img src="./assets/19.png" />
+
+
 
 
 <p>&emsp; 同时还可以查看多个信息，例如查看容器名和运行状态：</p>
 
 <p>&emsp;  sudo docker inspect --format '{{.Name}} {{.State.Running}}' daemon_logs ubuntu</p>
+<img src="./assets/20.png" />
 
-![](/assets/20.png)
