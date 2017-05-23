@@ -7,7 +7,7 @@
 <p>docker --version</p>
 <img src="./assets/1.png" />
 
-<h3>2.安装最新版本</h3>
+<h3> 2.安装最新版本</h3>
 <p> sudo apt-get update</p>
 <p>//让apt支持https：</p>
 <p>sudo apt-get install apt-transport-https</p>
