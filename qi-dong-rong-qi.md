@@ -15,7 +15,7 @@
 
 
 
-</p>&emsp; sudo docker run --restart=always --name docker_restart -d ubuntu /bin/bash -c "while true;do echo hello world ;sleep 1;done;</p>
+</p>&emsp; sudo docker run --restart=always --name docker_restart -d ubuntu /bin/bash -c "while true;do echo hello world ;sleep 1;done;"</p>
 
 
 
