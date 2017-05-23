@@ -8,7 +8,7 @@
 <img src="./assets/1.png" />
 
 <h3>2.安装最新版本</h3>
-<p>sudo apt-get update</p>
+<p> sudo apt-get update</p>
 <p>//让apt支持https：</p>
 <p>sudo apt-get install apt-transport-https</p>
 <p>//将docker库的公钥加入本地apt中：</p>
