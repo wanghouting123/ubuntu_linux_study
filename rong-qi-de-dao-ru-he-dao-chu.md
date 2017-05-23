@@ -7,7 +7,6 @@
 
 <p>&emsp; 创建一个容器：</p>
 
-
 <p>&emsp; sudo docker run -d --name ubuntu ubuntu /bin/bash -c "while true;do echo helloworld;sleep 1;done"</p>
 
 <p>&emsp; sudo docker export ubuntu > ubuntu.tar </p>
