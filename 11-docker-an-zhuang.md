@@ -3,7 +3,7 @@
 
 <h3> 1.安装默认版本</h3>
 
-#####sudo apt-get update
+<p>sudo apt-get update</p>
 #####sudo apt-get install docker.io
 ####安装完成之后查看版本:
 #####docker --version
