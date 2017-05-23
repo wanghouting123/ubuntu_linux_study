@@ -25,8 +25,8 @@
   
 <h4>&emsp; 1.2 docker ps -a </h4>
 <p>&emsp; 查看所有的容器。</p>
+<img src="./assets/10.png" />
 
-![](/assets/10.png)
 
 <p>&emsp; 1.3 docker ps -l
 <p>&emsp; 查看最后创建的容器。
