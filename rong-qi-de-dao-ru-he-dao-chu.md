@@ -21,8 +21,6 @@
 
 <p>&emsp; 容器的导入</p>
 
-
-
 <p>&emsp; cat ubuntu.tar | sudo docker import - imported:container</p>
 
 
